@@ -43,9 +43,9 @@
         echo "Name: " . htmlspecialchars($name) . "<br>";
         echo "Course: " . htmlspecialchars($course);
 
-
     }
 
 ?>
 
+<!-- post method -->
 
